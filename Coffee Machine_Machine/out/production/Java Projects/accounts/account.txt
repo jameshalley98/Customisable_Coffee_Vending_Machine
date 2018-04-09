@@ -1,0 +1,13 @@
+##Coffees##
+
+Test
+coffee-31
+rmilk-1
+sugar-1
+END
+
+The Usual
+coffee-2
+milk-0
+sugar-2
+END
